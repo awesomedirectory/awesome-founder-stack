@@ -7,8 +7,6 @@ This stack focuses on high-leverage tools for market research, niche operations,
 ## Contents
 
 - [Market Intelligence & Exit Strategy](#market-intelligence--exit-strategy)
-- [Niche Marketplace Operations](#niche-marketplace-operations)
-- [Recruitment & Staffing Tech](#recruitment--staffing-tech)
 - [Low-Code & Automation](#low-code--automation)
 - [Payments & Billing](#payments--billing)
 - [Contributing](#contributing)
