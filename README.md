@@ -35,6 +35,14 @@ This stack focuses on high-leverage tools for market research, niche operations,
 
 ---
 
+## Related Awesome Lists
+
+- [Awesome Genograms](https://awesomedirectory.github.io/awesome-genograms/) - Genogram builders, family tree libraries, and genealogy software.
+- [Awesome VC Tech Stack](https://awesomedirectory.github.io/Awesome-VC-Tech-Stack/) - Software stack used by venture capital firms.
+- [Awesome Healthcare Recruitment](https://awesomedirectory.github.io/Awesome-Healthcare-Recruitment/) - Tools and platforms for healthcare recruiting.
+- [Awesome Award Travel](https://awesomedirectory.github.io/awesome-award-travel/) - Award flight tools, points trackers, and credit card resources.
+---
+
 ## Contributing
 
 Building something cool? Found a tool that saves you 10 hours a week? Add it to the list!
