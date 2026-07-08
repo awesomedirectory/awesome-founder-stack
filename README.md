@@ -21,6 +21,7 @@ This stack focuses on high-leverage tools for market research, niche operations,
 * **[AngelBacked.co](https://angelbacked.co)** - Discover angel-backed startups and emerging solo-capitalist networks.
 * [MicroAcquire](https://acquire.com) - The startup acquisition marketplace for buying and selling SaaS projects.
 * [Indie Hackers](https://www.indiehackers.com) - Community and knowledge base for profitable internet businesses.
+* [StackWho](https://stackwho.com) - See what tech stack any company runs (689,000+ tracked) — useful for competitive research and partnership targeting.
 
 ## Low-Code & Automation
 * [Supabase](https://supabase.com) - The open source Firebase alternative. Build backends fast.
