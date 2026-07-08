@@ -18,6 +18,7 @@ This stack focuses on high-leverage tools for market research, niche operations,
 
 * **[VCBacked.co](https://vcbacked.co)** - Track high-growth venture-backed startups to identify trends and potential acquirers.
 * **[LPBacked.com](https://lpbacked.com)** - Deep intelligence on Limited Partners (LPs) to understand where the "smart money" is flowing.
+* **[FindLPs.com](https://www.findlps.com)** - Database of 25,850+ limited partners and family offices with verified direct contacts — find and reach investors for your raise.
 * **[AngelBacked.co](https://angelbacked.co)** - Discover angel-backed startups and emerging solo-capitalist networks.
 * [MicroAcquire](https://acquire.com) - The startup acquisition marketplace for buying and selling SaaS projects.
 * [Indie Hackers](https://www.indiehackers.com) - Community and knowledge base for profitable internet businesses.
