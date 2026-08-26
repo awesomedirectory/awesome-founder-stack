@@ -37,6 +37,7 @@ This stack focuses on high-leverage tools for market research, niche operations,
 * [Stripe Atlas](https://stripe.com/atlas) - The easiest way to incorporate a company and start a business.
 * [Lemon Squeezy](https://www.lemonsqueezy.com) - Payments, tax, and subscriptions for software companies.
 * [Paddle](https://www.paddle.com) - Complete payments infrastructure for SaaS companies.
+* [Toolkit Labs Invoice](https://ytinumoc.github.io/toolkitlabs-invoice/) - Free browser invoice and receipt PDF generator, no account. [Commercial EUR 249 one-time](https://buy.stripe.com/bJeeVea187TScZwb095Ne0k?client_reference_id=awesome-founder-stack-v1): white-label PDFs, 6 templates, CSV batch CLI.
 
 ---
 
