@@ -42,6 +42,7 @@ This stack focuses on high-leverage tools for market research, niche operations,
 
 ## Related Awesome Lists
 
+- [Awesome Startup Jobs](https://awesomedirectory.github.io/awesome-startup-jobs/) - Job boards, funding trackers, salary data, and research tools for finding and vetting jobs at venture-backed startups.
 - [Awesome Genograms](https://awesomedirectory.github.io/awesome-genograms/) - Genogram builders, family-tree visualization libraries, and genealogy software for therapists, social workers, and developers.
 - [Awesome VC Tech Stack](https://awesomedirectory.github.io/Awesome-VC-Tech-Stack/) - The software stack used by modern venture capital firms — sourcing, diligence, portfolio support, and fund admin.
 - [Awesome Healthcare Recruitment](https://awesomedirectory.github.io/Awesome-Healthcare-Recruitment/) - Tools and platforms for sourcing, screening, and hiring physicians, nurses, and other clinical staff.
