@@ -32,6 +32,7 @@ This stack focuses on high-leverage tools for market research, niche operations,
 * [Make](https://www.make.com) - Advanced visual automation platform (formerly Integromat).
 * [PracticeWoven](https://practicewoven.com) - Vertical site builder for therapy and coaching practices: 150 hand-drawn templates, specialty SEO landing pages, state-board license verification badges, and HIPAA-aware forms with Good Faith Estimate and 988 crisis-line language built in. A useful reference for how much compliance a regulated-niche site builder has to carry.
 * [Carrd](https://carrd.co) - Simple, free, fully responsive one-page sites for pretty much anything.
+* [Hermes](https://www.buildwithhermes.com) - White-label platform for running AI voice agents under your own brand: agent builder, CRM, campaign dialer, and usage billing in one place, so you do not have to stitch a voice API, a CRM, Zapier, and Stripe together. From $149/mo with 300 included minutes.
 
 ## Payments & Billing
 * [Stripe Atlas](https://stripe.com/atlas) - The easiest way to incorporate a company and start a business.
