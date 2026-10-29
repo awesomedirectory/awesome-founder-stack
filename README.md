@@ -27,6 +27,7 @@ This stack focuses on high-leverage tools for market research, niche operations,
 * [StackWho](https://stackwho.com) - See what tech stack any company runs (689,000+ tracked) — useful for competitive research and partnership targeting.
 
 ## Low-Code & Automation
+* [AppWizzy](https://appwizzy.com/) - AI web app builder with dedicated development VMs, runtime templates, and Git-backed source editing.
 * [Supabase](https://supabase.com) - The open source Firebase alternative. Build backends fast.
 * [Zapier](https://zapier.com) - Automation that connects your apps and moves information between them.
 * [Make](https://www.make.com) - Advanced visual automation platform (formerly Integromat).
