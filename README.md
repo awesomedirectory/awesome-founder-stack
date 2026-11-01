@@ -23,6 +23,7 @@ This stack focuses on high-leverage tools for market research, niche operations,
 * **[AngelBacked.co](https://angelbacked.co)** - Discover angel-backed startups and emerging solo-capitalist networks.
 * [RequestProduct](https://requestproduct.com) - Feed of real product requests posted by buyers, browsable by category — useful for spotting unmet demand before building, and for putting your tool in front of people actively asking for it.
 * [MicroAcquire](https://acquire.com) - The startup acquisition marketplace for buying and selling SaaS projects.
+* [OpenSparta](https://opensparta.com/en) - Monitors selected Telegram communities for buying requests and shows ranked matches with source-message evidence.
 * [Indie Hackers](https://www.indiehackers.com) - Community and knowledge base for profitable internet businesses.
 * [StackWho](https://stackwho.com) - See what tech stack any company runs (689,000+ tracked) — useful for competitive research and partnership targeting.
 
