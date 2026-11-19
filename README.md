@@ -34,9 +34,10 @@ This stack focuses on high-leverage tools for market research, niche operations,
 * [Carrd](https://carrd.co) - Simple, free, fully responsive one-page sites for pretty much anything.
 
 ## Payments & Billing
-* [Stripe Atlas](https://stripe.com/atlas) - The easiest way to incorporate a company and start a business.
 * [Lemon Squeezy](https://www.lemonsqueezy.com) - Payments, tax, and subscriptions for software companies.
 * [Paddle](https://www.paddle.com) - Complete payments infrastructure for SaaS companies.
+* [Retainer Wallet](https://ecosystem.hubspot.com/marketplace/listing/retainer-wallet-prepaid-hours-time-tracking) - Prepaid retainer hour tracking and drawdowns inside HubSpot CRM for agencies and consultancies.
+* [Stripe Atlas](https://stripe.com/atlas) - The easiest way to incorporate a company and start a business.
 
 ---
 
