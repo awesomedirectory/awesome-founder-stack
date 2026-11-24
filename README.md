@@ -25,6 +25,8 @@ This stack focuses on high-leverage tools for market research, niche operations,
 * [MicroAcquire](https://acquire.com) - The startup acquisition marketplace for buying and selling SaaS projects.
 * [Indie Hackers](https://www.indiehackers.com) - Community and knowledge base for profitable internet businesses.
 * [StackWho](https://stackwho.com) - See what tech stack any company runs (689,000+ tracked) — useful for competitive research and partnership targeting.
+* [Company Social Profile Finder](https://apify.com/publicrecords/company-social-profile-finder) — Company domain or name to its LinkedIn, X, YouTube, Instagram and Facebook links, with confidence scores (Apify Actor, API + MCP).
+* [Google Ads Transparency Scraper](https://apify.com/publicrecords/google-ads-transparency-scraper) — Google ads a competitor runs, from the Ads Transparency Center, with first and last shown dates (Apify Actor, API + MCP).
 
 ## Low-Code & Automation
 * [Supabase](https://supabase.com) - The open source Firebase alternative. Build backends fast.
